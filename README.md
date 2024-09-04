@@ -15,7 +15,6 @@ A **SpDiscountSimplifiedApplication** é uma aplicação Java que permite ao usu
 - Java
 - Swing para a interface gráfica
 - Maven para gerenciamento de dependências
-- Spring Boot
 
 ## Estrutura do Projeto
 
