@@ -48,6 +48,8 @@ A **SpDiscountSimplifiedApplication** é uma aplicação Java que permite ao usu
 2. Insira o nome do objeto e o valor.
 3. A aplicação calculará o valor de venda com desconto e exibirá os resultados na interface gráfica.
 
+![img.png](img.png)
+
 ## Autor
 
 - Gustavo Toledo
